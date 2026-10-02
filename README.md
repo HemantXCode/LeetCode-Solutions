@@ -6,11 +6,13 @@
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -20,6 +22,7 @@
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
