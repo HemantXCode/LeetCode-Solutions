@@ -35,4 +35,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
