@@ -47,4 +47,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0383-ransom-note/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0383-ransom-note/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0383-ransom-note/) | Easy |
 <!---LeetCode Topics End-->
