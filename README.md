@@ -36,11 +36,13 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Math
