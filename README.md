@@ -45,6 +45,7 @@
 | [0035-search-insert-position](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,4 +70,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
