@@ -13,6 +13,7 @@
 | [0404-sum-of-left-leaves](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0965-univalued-binary-tree/) | Easy |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,6 +25,7 @@
 | [0404-sum-of-left-leaves](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0965-univalued-binary-tree/) | Easy |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +35,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0965-univalued-binary-tree/) | Easy |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +48,7 @@
 | [0404-sum-of-left-leaves](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0965-univalued-binary-tree/) | Easy |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
