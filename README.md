@@ -14,6 +14,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0965-univalued-binary-tree/) | Easy |
@@ -30,6 +31,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
@@ -41,6 +43,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 ## Binary Tree
@@ -56,6 +59,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0965-univalued-binary-tree/) | Easy |
