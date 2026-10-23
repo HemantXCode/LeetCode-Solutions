@@ -81,6 +81,7 @@
 | [0048-rotate-image](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1046-last-stone-weight](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,4 +130,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1046-last-stone-weight](https://github.com/HemantXCode/LeetCode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 <!---LeetCode Topics End-->
